@@ -1,3 +1,3 @@
 ## Теория тестирования
-1) [Определение методов, типов и уровней тестирования для приложения интернет-магазин](https://docs.google.com/spreadsheets/d/19ZbznYS1qdzRgKuw7baX46DQZWAvsmrnnnCdQ0zgB6M/edit?usp=sharing)
-2) [Анализ требований](https://docs.google.com/spreadsheets/d/1cB3p9uBOJlTUSr4SkRVcEWyb-GTLgQjx56i6H1kHWRg/edit?usp=sharing)
+Было необходимо определить, какие [методы, типы и уровни](https://docs.google.com/spreadsheets/d/19ZbznYS1qdzRgKuw7baX46DQZWAvsmrnnnCdQ0zgB6M/edit?usp=sharing) можно использовать для тестирования интернет-магазина электроники. 
+Кроме того, была поставлена задача проанализировать и уточнить имеющиеся требования к каждому модулю данного веб-приложению. Все [требования](https://docs.google.com/spreadsheets/d/1cB3p9uBOJlTUSr4SkRVcEWyb-GTLgQjx56i6H1kHWRg/edit?usp=sharing) (юзер-стори, критерии приёмки, исключительные случаи) были тщательно изучены и проанализированы.
